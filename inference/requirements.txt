@@ -1,0 +1,8 @@
+flask
+boto3
+requests
+python-dotenv
+gunicorn
+pymysql
+torch        
+roboflow

@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+
+# Python
+__pycache__/
+venv/
+*.pyc
+.env
+
+# Vue
+dist/
+
+# Logs
+*.log
+.DS_Store
+
+# AWS keys (never commit!)
+*.pem
